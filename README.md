@@ -1,3 +1,3 @@
 XAI Tutorial
 
-Explainable AI with shap,lime and PDP
+Explainable AI with shap,lime and PDP in Python
